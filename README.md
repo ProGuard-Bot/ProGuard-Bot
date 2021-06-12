@@ -9,7 +9,7 @@
 ・ Invitations
 ・ Utilitaire
 
-# Les Créateurs 
+# Créateur 
 
 ・ [`Boritoz`](https://github.com/Boritozzz)
   
